@@ -721,8 +721,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/portada-web-collage-2000x1414.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/collage-portada-okok-2000x1414.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -732,7 +732,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "CARRUSEL DE IMÁGENES A PANTALLA COMPLETA",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
@@ -740,7 +740,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-circulo-descarga-second-round-2000x1414.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
