@@ -722,7 +722,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/portada-web-collage-2000x1414.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -739,21 +739,21 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-circulo-descarga-2000x1414.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide-circulo-descarga-second-round-2000x1414.jpg",
+                "active": true,
                 "showButtons": true,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<font color=\"#232323\"><b>Aplicación</b></font>",
+                "title": "<b>Bienvenido a una experiencia única&nbsp;</b>&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Descargar</a> ",
+                "text": "Recorre con la aplicación los pasos de los primeros<br> corresponsales de guerra del mundo",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Descargar</a> ",
                 "overlayOpacity": "0.3"
               }
             ]
